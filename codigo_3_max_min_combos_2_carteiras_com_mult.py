@@ -14,8 +14,8 @@ import time
 tempo_inicial = time.time()
 
 # Credenciais de acesso, o Token já deve estar ativo para poder usar 
-token = "a518b45263e38a3664fde4c7a1cd518f"
-email = "testeapitg@gmail.com"
+token = "SEU_TOKEN_AQUI"
+email = "SEU_EMAIL_AQUI"
 
 # Números das Carteiras
 carteira1 = "S326462297"  # Código da primeira carteira S que deseja consultar

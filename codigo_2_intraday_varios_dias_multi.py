@@ -13,8 +13,8 @@ import time
 tempo_inicial = time.time()
 
 # Credenciais de acesso, o Token já deve estar ativo para poder usar 
-token = "a518b45263e38a3664fde4c7a1cd518f"
-email = "testeapitg@gmail.com"
+token = "SEU_TOKEN_AQUI"
+email = "SEU_EMAIL_AQUI"
 
 # Número da Carteira
 carteira = "S324572197"  # Código da carteira S que deseja consultar Ex.: S1000 ou S328252097
